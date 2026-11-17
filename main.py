@@ -39,6 +39,3 @@ while True:
 
     if wybor == 5:
         break
-
-
-
